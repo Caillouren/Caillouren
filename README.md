@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caillouren
 - 👀 I’m interested in Games🎮, Books📚 and Plants🌻!
-- 🌱 I’m currently learning Python, .NET and Data-Base;
+- 🌱 I’m currently learning Python, .NET and SQL;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
